@@ -37,6 +37,9 @@ strong {
   color: cornflowerblue;
 }
 
+.App footer {
+  padding-top: 30px;
+}
 .App a {
   color: violet;
 }
